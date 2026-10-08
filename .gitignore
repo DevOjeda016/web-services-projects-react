@@ -1,0 +1,19 @@
+# Dependencias y builds
+node_modules/
+dist/
+
+# Artefactos de ejecución local
+.log-*.txt
+.proyectos-pids
+
+# Datos locales con información real de visitantes (nunca se suben)
+lattice-systems-web-frontend/Backend/data/mensajes.json
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.local
+.env
+.env.*
